@@ -9,8 +9,9 @@ Antes de comenzar a subir tu trabajo deberás clonar este repositorio en tu equi
 ### Desde terminal
 En la terminal ejecuta el siguiente comando (sustituyendo username por tu usuario en gitHub)<br>
 
+```
 git clone https://github.com/ESCOM-IA/ESCOM-IA-23-2
-
+```
 
 Con eso tendrás el repositorio de manera local.
 ### Desde VSCode
@@ -61,6 +62,10 @@ Si es la primera vez que haces esto, darle en aceptar a la ventana emergente que
 git pull
 ```
 antes de comenar a trabajar :) 
+
+## Referencias
+
+⭐ Te interesa saber mas de git? Aqui te dejo una web donde podras concoer un poco mas sobre esta herramienta **[Que es Git?](https://desarrolloweb.com/home/git)**
 
 ## Recuerda
 
